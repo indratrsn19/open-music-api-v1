@@ -1,0 +1,4 @@
+node_modules
+OpenMusicAPITest.postman_environment.json
+OpenMusicAPIV1Test.postman_collection.json
+.env
